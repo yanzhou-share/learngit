@@ -7,4 +7,4 @@
 6
 7
 9
-Git tracks changes.
+Git tracks changes of files.
