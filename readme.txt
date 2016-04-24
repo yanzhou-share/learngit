@@ -13,4 +13,5 @@ dev
 master
 feacture1
 git remote
-git dev
+git dev 
+git origin/dev
